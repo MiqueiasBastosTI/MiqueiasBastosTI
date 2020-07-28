@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat-circle&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCIDauWkcjEjEhsWtBYK4nOw)]
 <!--
 **MiqueiasBastosTI/MiqueiasBastosTI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
