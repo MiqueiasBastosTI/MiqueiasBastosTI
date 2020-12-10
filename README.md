@@ -1,5 +1,8 @@
-### Hi there 👋
+# Olá, seja bem-vindo ao meu repositório! 👋
+
+**Aproveite e conheça minhas redes sociais!**  
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat-circle&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCIDauWkcjEjEhsWtBYK4nOw)](https://www.youtube.com/channel/UCIDauWkcjEjEhsWtBYK4nOw)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-F56040?style=flat-circle&labelColor=F56040&logo=instagram&logoColor=white&link=https://instagram.com/miqueiasbastosti)](https://instagram.com/miqueiasbastosti)
 <!--
 **MiqueiasBastosTI/MiqueiasBastosTI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
